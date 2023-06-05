@@ -2,15 +2,15 @@
 <testng-results ignored="5" total="6" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-06-05T14:24:01 CST" name="Default suite" finished-at="2023-06-05T14:24:02 CST" duration-ms="1410">
+  <suite started-at="2023-06-05T15:13:39 CST" name="Default suite" finished-at="2023-06-05T15:13:41 CST" duration-ms="1370">
     <groups>
     </groups>
-    <test started-at="2023-06-05T14:24:01 CST" name="Default test" finished-at="2023-06-05T14:24:02 CST" duration-ms="1410">
+    <test started-at="2023-06-05T15:13:39 CST" name="Default test" finished-at="2023-06-05T15:13:41 CST" duration-ms="1370">
       <class name="test.TestExamples_FakeServer">
-        <test-method signature="test05_DELETE()[pri:0, instance:test.TestExamples_FakeServer@2b91004a]" started-at="2023-06-05T14:24:01 CST" name="test05_DELETE" finished-at="2023-06-05T14:24:02 CST" duration-ms="1367" status="PASS">
+        <test-method signature="test00_GET()[pri:0, instance:test.TestExamples_FakeServer@2b91004a]" started-at="2023-06-05T15:13:39 CST" name="test00_GET" finished-at="2023-06-05T15:13:41 CST" duration-ms="1332" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test05_DELETE -->
+        </test-method> <!-- test00_GET -->
       </class> <!-- test.TestExamples_FakeServer -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
