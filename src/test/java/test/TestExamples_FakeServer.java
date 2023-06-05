@@ -8,7 +8,6 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 import io.restassured.http.ContentType;
 
-//Adding this comment for GitHub purposes
 
 public class TestExamples_FakeServer {
 
